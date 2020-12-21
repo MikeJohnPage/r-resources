@@ -6,5 +6,8 @@
 - [visualisation picker](https://www.data-to-viz.com/)
 - [gallery](https://www.r-graph-gallery.com/)
 
-## Statistics
+## Summar Statistics
 - [skimr - summary statistics](https://github.com/ropensci/skimr)
+
+## Models
+- [tidymodels](https://www.tidymodels.org/)
