@@ -12,3 +12,6 @@
 
 ## Models
 - [tidymodels](https://www.tidymodels.org/)
+
+## NLP
+- [Text Mining with R](https://www.tidytextmining.com/)
