@@ -14,5 +14,5 @@
 - [tidymodels](https://www.tidymodels.org/)
 
 ## NLP
-- [Text Mining with R](https://www.tidytextmining.com/)
--[sentimentr - sentiment analysis](https://github.com/trinker/sentimentr)
+- [Text Mining with R](https://www.tidytextmining.com/)  
+- [sentimentr - sentiment analysis](https://github.com/trinker/sentimentr)
